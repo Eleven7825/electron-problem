@@ -1,4 +1,4 @@
-# electron-problem
+# Thomson Problem 2d
 Simulate the generalized Thomson Problem with Matlab on a 2d frame
 
 ## Usage
